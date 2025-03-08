@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @huzaifacode1
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: ...
+- 😎 i am a really cool boy
+- 📫 my number is 03042982780 
+- 😄 and my real name is huzaifa
 - ⚡ Fun fact: i love fruits
 
 <!---
