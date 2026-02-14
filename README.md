@@ -1,83 +1,137 @@
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
-# 🚀 Huzaifa Fawad
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Huzaifa%20Fawad&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=35" />
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Full+Stack+Enthusiast;E-Commerce+Website+Developer;Always+Learning+Since+2021" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Full+Stack+Engineer;E-Commerce+Architect;Building+Since+2021;Future+Tech+Entrepreneur" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 🧠 WHO AM I?
 
-💡 Passionate Frontend Developer  
-🚀 Started coding in **2021**  
-📈 Continuously improving till **2026 & beyond**  
-🛒 Built multiple **E-Commerce Websites**  
-🔥 Focused on modern, responsive & scalable web apps  
+```bash
+> Name: Huzaifa Fawad
+> Role: Frontend Developer
+> Experience: 2021 - 2026+
+> Mission: Build Scalable Digital Products
+> Status: Always Learning 🚀
+```
 
----
-
-## 🛠 Tech Stack
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0f172a?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-![TSX](https://img.shields.io/badge/TSX-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### ⚙️ Backend & Database
-![Laravel](https://img.shields.io/badge/Laravel-0f172a?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![C#](https://img.shields.io/badge/CSharp-0f172a?style=for-the-badge&logo=csharp&logoColor=239120)
-![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![SQL](https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=database&logoColor=white)
+I build **modern, responsive & high-performance web applications**  
+with clean architecture and strong UI/UX principles.
 
 ---
 
-## 📊 GitHub Stats
+# ⚔️ TECH ARSENAL
+
+## 🎨 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,ts" />
+</p>
+
+## ⚙️ Backend & Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=laravel,cs,mysql,git,github" />
+</p>
+
+---
+
+# 📊 GITHUB POWER STATS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
 ---
 
-## 🔥 Contribution Graph
+# 🔥 CONTRIBUTION MATRIX
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117" />
 
 </div>
 
 ---
 
-## 🚀 Featured Work
+# 🐍 SNAKE EATING CONTRIBUTIONS
 
-- 🛍 E-Commerce Websites (Full Stack)
-- 📊 Admin Dashboard Systems
-- 🎨 Modern UI/UX Projects
-- 🌐 Responsive Business Websites
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+# 🚀 FEATURED WORK
 
-[![Gmail](https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:fawadhuzaifa7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/YOUR_USERNAME)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0f172a?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/923XXXXXXXXX)
+### 🛒 E-Commerce Systems
+- Full stack architecture
+- Secure authentication
+- Admin dashboards
+- MySQL integration
+- Modern UI/UX
+
+### 📊 Admin Dashboard Systems
+- CRUD operations
+- Clean component structure
+- Responsive layout
+- Scalable backend logic
+
+---
+
+# 🎯 CURRENT FOCUS
+
+- Advanced Frontend Engineering
+- Performance Optimization
+- SaaS Product Development
+- Tech Entrepreneurship
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<p align="center">
+
+<a href="mailto:fawadhuzaifa7@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+
+<a href="https://instagram.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+</a>
+
+<a href="https://wa.me/923XXXXXXXXX">
+<img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-⭐ If you like my work, don't forget to star my repositories!
+### ⚡ "Code. Build. Scale. Repeat."
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer"/>
+
